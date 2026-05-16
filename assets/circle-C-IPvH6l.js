@@ -1,0 +1,1 @@
+import{s as e}from"./PageWrapper-P6ufA-Y-.js";var t=e(`circle`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}]]);export{t};
