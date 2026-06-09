@@ -1,0 +1,1 @@
+import{s as e}from"./PageWrapper-C9V8Bk4-.js";var t=e(`chart-no-axes-column`,[[`path`,{d:`M5 21v-6`,key:`1hz6c0`}],[`path`,{d:`M12 21V3`,key:`1lcnhd`}],[`path`,{d:`M19 21V9`,key:`unv183`}]]);export{t};
